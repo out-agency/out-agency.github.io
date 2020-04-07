@@ -1,8 +1,8 @@
 # OUT.AGENCY
 Beutiful websites built for our clients <3
 
-[Integrati — 1C Enterprise Setup](https://out-agency.github.io/integrati/)
+[Integrati — 1C Enterprise Setup](/integrati/)
 
-[Business Math — Accounting Services](https://out-agency.github.io/bizmat/)
+[Business Math — Accounting Services](/bizmat/)
 
-[Russian North — Premum Housing Developer](https://out-agency.github.io/runorth/)
+[Russian North — Premum Housing Developer](/runorth/)
