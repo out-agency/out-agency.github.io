@@ -10,3 +10,5 @@ Beutiful websites built for our clients <3
 [Hardroller — Document preparation service](/hardroller/)
 
 [Indicator — Sales control service](/indicator/)
+
+[Faces — Club coworking for beauty professionals](/faces/)
