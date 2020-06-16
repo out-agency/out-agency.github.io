@@ -12,3 +12,5 @@ Beutiful websites built for our clients <3
 [Indicator — Sales control service](/indicator/)
 
 [Faces — Club coworking for beauty professionals](/faces/)
+
+[Master — IT infrastructure for your business](/master/)
