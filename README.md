@@ -20,3 +20,7 @@ Beutiful websites built for our clients <3
 [Digital Condo — Online condominium management service](/digital-condo/)
 
 [P3express — Project management framework](/p3x/)
+
+[Sputnik — real estate agency](/sputnik/)
+
+[VK QR — QR-service of the largest social network in Russia](/vk/)
