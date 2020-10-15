@@ -24,3 +24,5 @@ Beutiful websites built for our clients <3
 [Sputnik — real estate agency](/sputnik/)
 
 [VK QR — QR-service of the largest social network in Russia](/vk/)
+
+[Personik — internal comms solution](/personik/)
