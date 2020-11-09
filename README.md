@@ -27,4 +27,4 @@ Beutiful websites built for our clients <3
 
 [viaSteps — one step video solutions](/viasteps/)
 
-[SleepWell — the pillow that adapts to your bidy](/sleepwell/)
+[SleepWell — the travel pillow that adapts to your body](/sleepwell/)
