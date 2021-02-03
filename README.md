@@ -35,4 +35,4 @@ Beutiful websites built for our clients <3
 
 [GUS-TRANS — The Cargo Delivery Experts](/gus-trans/)
 
-[Ponomareva — The Executive Search Professional](/mmlab-check/)
+[Ponomareva — The Executive Search Professional](/ponomareva/)
