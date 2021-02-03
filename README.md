@@ -32,3 +32,7 @@ Beutiful websites built for our clients <3
 [Yagle Planner — the ad-spend optimizer](/mmlab-plan/)
 
 [Yagle Checkup — the ad-campaign checkup](/mmlab-check/)
+
+[GUS-TRANS — The Cargo Delivery Experts](/gus-trans/)
+
+[Ponomareva — The Executive Search Professional](/mmlab-check/)
