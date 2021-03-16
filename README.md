@@ -41,4 +41,4 @@ Beutiful websites built for our clients <3
 
 [TravelPayouts — The Marketing Platform for Travel Brands](/travelpayouts/)
 
-[PM Club — The Project Management Online School](/travelpayouts/)
+[PM Club — The Project Management Online School](/pmclub/)
