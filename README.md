@@ -39,4 +39,6 @@ Beutiful websites built for our clients <3
 
 [Ponomareva — The Executive Search Professional](/ponomareva/)
 
-[TravelPayouts — Marketing Platform for Travel Brands](/travelpayouts/)
+[TravelPayouts — The Marketing Platform for Travel Brands](/travelpayouts/)
+
+[PM Club — The Project Management Online School](/travelpayouts/)
