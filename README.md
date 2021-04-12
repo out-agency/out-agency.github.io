@@ -42,3 +42,5 @@ Beutiful websites built for our clients <3
 [TravelPayouts — The Marketing Platform for Travel Brands](/travelpayouts/)
 
 [PM Club — The Project Management Online School](/pmclub/)
+
+[Equivalent — The Perfume Franchise](/equivalent/)
