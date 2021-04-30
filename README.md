@@ -44,3 +44,5 @@ Beutiful websites built for our clients <3
 [PM Club — The Project Management Online School](/pmclub/)
 
 [Equivalent — The Perfume Franchise](/equivalent/)
+
+[NewHR — Rare Talents for Tech Companies](/newhr/)
