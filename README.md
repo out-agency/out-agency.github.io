@@ -48,3 +48,5 @@ Beutiful websites built for our clients <3
 [NewHR — Rare Talents for Tech Companies](/newhr/)
 
 [BankTaxi — Banking for Cabbies](/bank-taxi/)
+
+[Devicon — HR-tech Team for Enterprise](/devicon/)
