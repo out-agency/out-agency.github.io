@@ -50,3 +50,7 @@ Beutiful websites built for our clients <3
 [BankTaxi — Banking for Cabbies](/bank-taxi/)
 
 [Devicon — HR-tech Team for Enterprise](/devicon/)
+
+[Docurecruting — Education for HR-specialists](/docrecruting/)
+
+[Doma.ai — HUS Platform](/sberdoma/)
