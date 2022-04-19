@@ -54,3 +54,5 @@ Beutiful websites built for our clients <3
 [Docurecruting — Education for HR-specialists](/docrecruting/)
 
 [Doma.ai — HUS Platform](/sberdoma/)
+
+[Doma.ai — HR page](/sberdoma-hr/)
