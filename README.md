@@ -59,4 +59,6 @@ Beutiful websites built for our clients <3
 
 [i-Legal — IT law company](/ilegal/)
 
+[simmetria — FMC-simcard service](/simmetria/)
+
 [AMAI — Ultra-realistic AI Voices](/amai/)
