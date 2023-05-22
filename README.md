@@ -62,3 +62,5 @@ Beutiful websites built for our clients <3
 [simmetria — FMC-simcard service](/simmetria/)
 
 [AMAI — Ultra-realistic AI Voices](/amai/)
+
+[20/10 — Architectural bureau](/2010-architects/)
