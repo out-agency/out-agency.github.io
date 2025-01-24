@@ -72,3 +72,6 @@ Beutiful websites built for our clients <3
 [Alia — Business class residential area in Moscow](/alia/)
 
 [Hudozhka — The best art studio in Saint-Petersburg](/hudozhka/)
+
+[Bayes — Worldwide Sea container Leasing](/bayes/)
+
